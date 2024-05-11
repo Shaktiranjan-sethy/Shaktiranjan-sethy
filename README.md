@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shaktiranjan Sethy</h1>
-<h3 align="center">A passionate Web Devloper from India</h3>
+<h3 align="center">A passionate Frontend Devloper</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaktiranjan-sethy&label=Profile%20views&color=0e75b6&style=flat" alt="shaktiranjan-sethy" /> </p>
 
-- 🌱 I’m currently learning **Javascript,ReactJS,Html5,Css and Frameworks in Java,Data Structure Using C**
+- 🌱 I’m currently learning **Javascript,ReactJS,Html5,Css,Tailwind Css,Bootstrap,Scss and Frameworks in Java,Data Structure Using C**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shaktiranjan-sethy-77848024a](https://www.linkedin.com/in/shaktiranjan-sethy-77848024a)
 
